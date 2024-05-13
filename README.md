@@ -2,7 +2,7 @@
 
 ### Summary
 
-This notebook is dedicated to analyzing sales data, leveraging a suite of Python libraries to facilitate data manipulation, visualization, and clustering. The analysis includes the following steps:
+This notebook is dedicated to analysing sales data, leveraging a suite of Python libraries to facilitate data manipulation, visualisation, and clustering. The analysis includes the following steps:
 
 1. **Library Imports and Environment Setup**:
     - Libraries such as `pandas`, `numpy`, `seaborn`, `matplotlib`, `os`, `folium`, `sklearn`, and `plotly` are imported to handle various data processing, visualization, and clustering tasks.
