@@ -1,4 +1,4 @@
-# Supply-Chain-Optim
+# Supply-Chain-Optimization
 
 ### Summary
 
